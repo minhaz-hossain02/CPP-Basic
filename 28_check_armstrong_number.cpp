@@ -17,7 +17,7 @@ int main() {
     }
 
     originalNum = num;
-
+1
     while (originalNum != 0) {
         remainder = originalNum % 10;
         result += pow(remainder, n);
